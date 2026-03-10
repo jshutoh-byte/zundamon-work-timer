@@ -27,4 +27,3 @@ VOICEVOXを利用して、ずんだもんが作業スケジュールを音声で
 
 ---
 © 2026 J. Shuto (@jshutoh-byte)
-"To be is TOBE."
